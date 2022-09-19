@@ -1,4 +1,4 @@
-## Oiii sou Karem Leticia, estudante de Sistemas!
+## Oiii sou Karem Leticia, estudante de sistemas e aqui compartilho minha evolução nessa jornada como dev!
 <div align="center">
   <a href="https://github.com/KaremLeticia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaremLeticia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
