@@ -8,9 +8,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="![image](https://user-images.githubusercontent.com/109493495/211444318-f6a7330b-5dba-464b-9a2e-3048efa562e0.png)">
+  <img align="center" alt="Java" height="30" width="40" src="">
   
-<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/da136e5296923cd7dcaf86dbb7b62336.gif" width="150" height="150" style="border-radius:50px; alt="gif-karem"/>
+<a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/da136e5296923cd7dcaf86dbb7b62336.gif" width="120" height="120" style="border-radius:50px; alt="gif-karem"/>
 </div>
   
   ##
