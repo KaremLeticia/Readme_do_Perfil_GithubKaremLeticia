@@ -1,5 +1,6 @@
 <div align="center">
-<h2> 🖖🏻Olá, sou Karem Leticia estudante de sistemas e aqui compartilho minha evolução nessa jornada como dev!</h2>
+  <h2> 🖖🏻Olá, sou Karem Leticia e estudo sistemas. </br>
+ Aqui compartilho meu aprendizado e evolução nessa jornada como dev!</h2>
 </div>
 </br>
 <div align="center">
@@ -30,11 +31,10 @@
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/KaremLeticia/count.svg" /></p>
 
-<br>
 
 <div align="center">
 <div style="display: inline_block"><br>
-  <a href="https://picasion.com/"><img align="center" src="https://i.picasion.com/pic92/d901d2dffff6d40b3913ea9542b7ffb0.gif" width="150" height="150" border="0"   alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  <a href="https://picasion.com/"><img align="center" src="https://i.picasion.com/pic92/d901d2dffff6d40b3913ea9542b7ffb0.gif" width="120" height="120" border="0"   alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
 </div>
   
