@@ -1,4 +1,5 @@
 <h1>🖖🏻Olá, sou Karem Leticia estudante de sistemas e aqui compartilho minha evolução nessa jornada como dev!</h1>
+<div>
 
 <div align="center">
   <a href="https://github.com/KaremLeticia">
@@ -26,6 +27,8 @@
 </div>
   
 <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/d901d2dffff6d40b3913ea9542b7ffb0.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
-  
-  
+ 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>  
 ##
