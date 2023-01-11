@@ -27,6 +27,8 @@
 </div>
   
 <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/d901d2dffff6d40b3913ea9542b7ffb0.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  
+![snake gif](https://github.com/KaremLeticia/KaremLeticia/blob/output/github-contribution-grid-snake.svg)
  
 
 </div>  
