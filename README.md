@@ -43,18 +43,30 @@ Instagram, com o perfil "[Karems.code](https://www.instagram.com/karems.code/pro
 
 
 </br>
-<div align="center">
-    <a href = "mailto:karemsantosleticia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/karemsantos/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="discord" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+<a href="mailto:karemsantosleticia@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-Gmail-%23FF5733?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/karemsantos/" style="text-decoration: none;" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%2300C4CC?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>&nbsp;
+<a href="discord" style="text-decoration: none;" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%23E91E63?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+</a>
+
+    
+</div>
+
+
 </div>
 
 </br>
+</br>
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/KaremLeticia/count.svg" /></p>
+<p>   <img alingn="center" src="https://profile-counter.glitch.me/KaremLeticia/count.svg" /></p>
 
 
-<div align="center">
+
 <div style="display: inline_block"><br>
   <a href="https://picasion.com/"><img align="center" src="https://i.picasion.com/pic92/d901d2dffff6d40b3913ea9542b7ffb0.gif" width="120" height="120" border="0"   alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
