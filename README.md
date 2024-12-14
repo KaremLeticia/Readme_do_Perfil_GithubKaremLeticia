@@ -70,7 +70,16 @@ Instagram, com o perfil "[Karems.code](https://www.instagram.com/karems.code/pro
 <div style="display: inline_block"><br>
   <a href="https://picasion.com/"><img align="center" src="https://i.picasion.com/pic92/d901d2dffff6d40b3913ea9542b7ffb0.gif" width="120" height="120" border="0"   alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
-</div>
+
+</br>
+
+</div>  
+<p align="right">
+  <img src="https://i.pinimg.com/originals/00/89/5c/00895cd7786228d6420506dd9ac6c623.gif" alt="Imagem do Pinterest" style="margin-left:50";">
+</p>
+
+
+</p>
  
 
 </div>  
